@@ -16,7 +16,7 @@ body{
     padding: 10px; /*espaço interno letras*/
 
 }
-a. {     /*links pag */
+a {     /*links pag */
     color: #4b566a;
     text-decoration: none; /*remove anderline dos links*/
     font-weight: bold; /*tipos letras*/
@@ -32,6 +32,6 @@ h2 {
     color: #828271;
     font-size: 1.1em;
 }
-.img { /*fotos*/
+#fotos { /*fotos*/
     border: 10px solid #c3c3ae; /*bordas fotos*/
 }
